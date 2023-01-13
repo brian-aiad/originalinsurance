@@ -1,0 +1,67 @@
+
+
+/* NAVBAR STYLE */
+
+@media (max-width: 576px) {
+  .navbar-test {
+    height: 80px;
+  }
+  .navbar-brand img{
+    width: 200px;
+    height: 60px;
+  }
+}
+
+.nav-link {
+  font-size: 1.4rem;
+}
+
+.nav-item {
+  margin-right: 25px; /* adds space between the right side of each list item */
+}
+
+.navbar-test{
+  background-color: rgb(4, 99, 128);
+  height: 100px;
+}
+
+.navbar-test2{
+    background-color: rgb(4, 99, 128);
+}  
+        
+.nav-link{
+  color:rgb(0, 0, 0) !important;
+  color:white !important;
+}
+
+.logocolor{
+  background-color: rgb(4, 99, 128);
+}
+
+
+
+
+
+
+
+
+/* SHOWCASE STYLE */
+
+.imgshocase {
+margin-left: 4rem;
+}
+
+.big-bold-text1 {
+ font-size: 40px;
+ font-weight: 500;
+}
+.big-bold-text2 {
+ font-size: 20px;
+ font-weight: 600;
+}
+
+.bkg-img {
+  background-image: linear-gradient(rgba(54, 53, 65, 0.555),
+   rgba(26, 28, 60, 0.757)), url(IMAGES/front_insurance.jpg);
+  background-size: cover;
+}
